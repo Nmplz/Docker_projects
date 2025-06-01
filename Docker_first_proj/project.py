@@ -6,4 +6,4 @@ count = 0
 while count < total:
     count += 1
     print("line" + str(count))
-    time.sleep(1)
+    time.sleep(11)
